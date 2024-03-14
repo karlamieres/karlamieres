@@ -16,7 +16,7 @@ javascript Mecanografiado
 
 Desarrollo front-end :
 
-HTML5 CSS javascript 
+<img alt="W3C Validation" src="https://img.shields.io/w3c-validation/:parser"> CSS javascript 
 
 
 Base de Datos :
